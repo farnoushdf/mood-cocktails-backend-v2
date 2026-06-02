@@ -22631,6 +22631,20 @@
       "username": "Farnoush",
       "password": "farnoush",
       "id": 7
+    },
+    {
+      "username": "mana",
+      "password": "123456",
+      "firstName": "mana",
+      "lastName": "m",
+      "email": "mana@gmail.com",
+      "photo": "https://www.museumselection.co.uk/images/products/large/28890.jpg",
+      "id": 8
+    },
+    {
+      "username": "fdf",
+      "password": "123456",
+      "id": 9
     }
   ]
 }
